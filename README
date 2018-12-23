@@ -1,0 +1,12 @@
+LOCAL OPTION
+------------------------------------------------------------------------
+STATIC SEMANTICS
+------------------------------------------------------------------------
+Sefik Mehmedovic
+P3
+------------------------------------------------------------------------
+
+To compile project run 'make' and to remove all executables run 'make clean'
+To read from file use ./statSem < filename.fs18 
+To run project without a file ./statSem and keyboard input will appear
+
